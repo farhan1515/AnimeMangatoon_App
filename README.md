@@ -1,7 +1,7 @@
 # Top 10 Popular Webtoons with Over 50 million Views
 
 ## Favourite and Rating Feature
-## Pacakges used
+## Packages used
 ### go_router
 ### hive_flutter
 ### flutter_rating_bar
