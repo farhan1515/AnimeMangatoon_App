@@ -1,16 +1,15 @@
-# animemangatoon_app
+# Top 10 Popular Webtoons with Over 50 million Views
 
-A new Flutter project.
+## Favourite and Rating Feature
+## Pacakges used
+### go_router
+### hive_flutter
+### flutter_rating_bar
 
-## Getting Started
+# PREVIEW
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/user-attachments/assets/e98a2216-41da-4256-9c23-cc37ab7a0489
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
